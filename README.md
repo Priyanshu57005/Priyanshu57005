@@ -5,11 +5,17 @@ Linkedin : https://www.linkedin.com/in/priyanshu-gautam-12b5a0298/
 
 Leetcode : https://leetcode.com/u/priyanshu_307/
 
-👋 Hi, I’m priyanshu07 
+👋 Hi 
+
 👨‍🎓 Information Technology student at Chandigarh engineering college, MOHALI. 
+
 👀 I’m interested in gathering all those skills which are required to make a full - fledged website. 
+
 🌱 I’m currently learning Web Development, and to be more specific. 
-📫 I am reachable at the below given Email Address. E - mail ID: priyanshu57005@gmail.com
+
+📫 I am reachable at the below given 
+
+Email Address. E - mail ID: priyanshu57005@gmail.com
 
 
 
