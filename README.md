@@ -1,9 +1,13 @@
 ## Hi there 👋
 Hi, I'm a B.Tech student at CGC Landran, specializing in Information Technology. I'm passionate about coding, problem-solving, and building innovative solutions. I have strong skills in programming languages in C++, as well as web development technologies like HTML, CSS, JavaScript and it's framwork react.js, tailwindcss. I'm eager to learn new technologies and contribute to the field of IT.
 
+Portfolio : https://priyanshu-portf.netlify.app/
+
 Linkedin : https://www.linkedin.com/in/priyanshu-gautam-12b5a0298/
 
 Leetcode : https://leetcode.com/u/priyanshu_307/
+
+Codeforces : https://codeforces.com/profile/Priyanshu_0705
 
 👋 Hi 
 
