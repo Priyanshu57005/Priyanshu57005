@@ -24,9 +24,10 @@ Email Address. E - mail ID: priyanshu57005@gmail.com
 ### 💻 Most Used Languages
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Priyanshu57005&layout=compact&theme=tokyonight)
 
-
 ### 🔥 Streak Stats
-![GitHub Streak](https://streak-stats.demolab.com?user=Priyanshu57005&theme=tokyonight&hide_border=false)   ### 📊 GitHub Stats
+![GitHub Streak](https://streak-stats.demolab.com?user=Priyanshu57005&theme=tokyonight&hide_border=false)  
+
+### 📊 GitHub Stats
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Priyanshu57005&show_icons=true&theme=tokyonight)
 
 
