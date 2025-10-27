@@ -7,6 +7,8 @@ Linkedin : https://www.linkedin.com/in/priyanshu-gautam-12b5a0298/
 
 Leetcode : https://leetcode.com/u/priyanshu_307/
 
+GeeksForGeeks : https://www.geeksforgeeks.org/user/priyanshu_307/
+
 Codeforces : https://codeforces.com/profile/Priyanshu_0705
 
 👋 Hi 
