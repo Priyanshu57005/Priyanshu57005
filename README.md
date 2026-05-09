@@ -13,7 +13,7 @@ Building scalable web apps & solving problems everyday 🚀
 
 ### 🧑‍💻 About Me
 
-```cpp
+
 class Priyanshu {
     string role = "Full Stack MERN Developer";
     string tech = "MERN • C++ • JavaScript";
