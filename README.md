@@ -1,5 +1,21 @@
 ## Hi there 👋
-Hi, I'm a B.Tech student at CGC Landran, specializing in Information Technology. I'm passionate about coding, problem-solving, and building innovative solutions. I have strong skills in programming languages in C++, as well as web development technologies like HTML, CSS, JavaScript and it's framwork react.js, tailwindcss. I'm eager to learn new technologies and contribute to the field of IT.
+<h1 align="center">Hi 👋, I'm Priyanshu Gautam</h1>
+
+<p align="center">
+Final Year B.Tech Student • MERN Developer • DSA in C++ • System Design • Problem Solver
+</p>
+
+---
+
+### 🚀 About Me
+
+```cpp
+class Priyanshu {
+    string role = "Full Stack MERN Developer";
+    string code = "C++ & JavaScript";
+    string focus = "DSA • Backend • System Design";
+    string status = "Building & Learning Everyday";
+};
 
 Portfolio : https://priyanshu-portf.netlify.app/
 
