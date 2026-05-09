@@ -21,7 +21,7 @@ class Priyanshu {
 };
 🌐 Connect With Me
 <p align="left"> <a href="https://your-portfolio-link.com">Portfolio</a> • <a href="https://linkedin.com/in/your-link">LinkedIn</a> • <a href="https://github.com/Priyanshu57005">GitHub</a> • <a href="https://leetcode.com/u/priyanshu_307/">LeetCode</a> </p>
-👋 Hi 
+<!-- 👋 Hi 
 
 👨‍🎓 Information Technology student at Chandigarh engineering college, MOHALI. 
 
@@ -29,10 +29,16 @@ class Priyanshu {
 
 🌱 I’m currently learning Web Development, and to be more specific. 
 
-📫 I am reachable at the below given 
+📫 I am reachable at the below given  -->
 
 Email Address. E - mail ID: priyanshu57005@gmail.com
 
 ⚡ GitHub Stats
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=Priyanshu57005&show_icons=true&theme=tokyonight&hide_border=true" height="160"/> <img src="https://github-readme-streak-stats.herokuapp.com/?user=Priyanshu57005&theme=tokyonight&hide_border=true" height="160"/> </p>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Priyanshu57005&show_icons=true&theme=tokyonight&hide_border=true" height="165"/>
 
+  <img src="https://streak-stats.demolab.com?user=Priyanshu57005&theme=tokyonight&hide_border=true" height="165"/>
+</p>
+<p align="center">
+  💡 Open to Internships • Startups • Collaborations
+</p>
