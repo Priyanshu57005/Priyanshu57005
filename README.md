@@ -2,31 +2,25 @@
 <h1 align="center">Hi 👋, I'm Priyanshu Gautam</h1>
 
 <p align="center">
-Final Year B.Tech Student • MERN Developer • DSA in C++ • System Design • Problem Solver
+Final Year B.Tech Student • MERN Developer • DSA in C++ • System Design
+</p>
+
+<p align="center">
+Building scalable web apps & solving problems everyday 🚀
 </p>
 
 ---
 
-### 🚀 About Me
+### 🧑‍💻 About Me
 
 ```cpp
 class Priyanshu {
     string role = "Full Stack MERN Developer";
-    string code = "C++ & JavaScript";
-    string focus = "DSA • Backend • System Design";
-    string status = "Building & Learning Everyday";
+    string tech = "MERN • C++ • JavaScript";
+    string focus = "DSA & System Design";
 };
-
-Portfolio : https://priyanshu-portf.netlify.app/
-
-Linkedin : https://www.linkedin.com/in/priyanshu-gautam-12b5a0298/
-
-Leetcode : https://leetcode.com/u/priyanshu_307/
-
-GeeksForGeeks : https://www.geeksforgeeks.org/user/priyanshu_307/
-
-Codeforces : https://codeforces.com/profile/Priyanshu_0705
-
+🌐 Connect With Me
+<p align="left"> <a href="https://your-portfolio-link.com">Portfolio</a> • <a href="https://linkedin.com/in/your-link">LinkedIn</a> • <a href="https://github.com/Priyanshu57005">GitHub</a> • <a href="https://leetcode.com/u/priyanshu_307/">LeetCode</a> </p>
 👋 Hi 
 
 👨‍🎓 Information Technology student at Chandigarh engineering college, MOHALI. 
@@ -39,14 +33,6 @@ Codeforces : https://codeforces.com/profile/Priyanshu_0705
 
 Email Address. E - mail ID: priyanshu57005@gmail.com
 
-### 💻 Most Used Languages
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Priyanshu57005&layout=compact&theme=tokyonight)
-
-### 🔥 Streak Stats
-![GitHub Streak](https://streak-stats.demolab.com?user=Priyanshu57005&theme=tokyonight&hide_border=false)  
-
-### 📊 GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Priyanshu57005&show_icons=true&theme=tokyonight)
-
-
+⚡ GitHub Stats
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=Priyanshu57005&show_icons=true&theme=tokyonight&hide_border=true" height="160"/> <img src="https://github-readme-streak-stats.herokuapp.com/?user=Priyanshu57005&theme=tokyonight&hide_border=true" height="160"/> </p>
 
