@@ -8,18 +8,20 @@ Final Year B.Tech Student • MERN Developer • DSA in C++ • System Design
 Building scalable web apps & solving problems everyday 🚀
 </p>
 
----
+## 👨‍💻 About Me
 
-### 🧑‍💻 About Me
-
-class Priyanshu {
-    string role = "Full Stack MERN Developer";
-    string tech = "MERN • C++ • JavaScript";
-    string focus = "DSA & System Design";
+```javascript
+const priyanshu = {
+    role: "Full Stack MERN Developer",
+    education: "Final Year B.Tech Student",
+    skills: ["MongoDB", "Express.js", "React", "Node.js"],
+    languages: ["JavaScript", "C++"],
+    interests: ["DSA", "System Design", "Backend Engineering"],
+    currentFocus: "Building scalable web applications",
+    motto: "Code. Learn. Build. Repeat. 🚀"
 };
 
----
-
+```
 ### 🌐 Connect With Me
 
 <p align="center">
